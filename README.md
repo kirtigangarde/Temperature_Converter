@@ -1,0 +1,1 @@
+A temperature converter Python program allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin scales. The program typically provides options for users to input a temperature in one scale, and then it performs the necessary mathematical conversions to output the equivalent temperature in the other two scales.
